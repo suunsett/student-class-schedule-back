@@ -56,6 +56,7 @@ app.get('/api/home', (req, res) => {
     return res.status(404).json({ message: "No matching classes found!" });
   }
 
+  console.log(filteredData);
   res.json(filteredData); // Send back the filtered data
 })
 
