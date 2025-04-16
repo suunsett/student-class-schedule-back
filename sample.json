@@ -1,262 +1,262 @@
 [
   {
     "date": "1405/09/23",
-    "status": "تایمش نرسیده",
     "major": "مهندسی کامپیوتر",
     "time": "10:00",
-    "courseProf": "گل ابی",
     "courseCode": "CS301",
     "courseName": "داده کاوی",
-    "university": "خلیج فارس"
+    "university": "خلیج فارس",
+    "courseProf": "طلعتیان",
+    "status": "برگزار شده"
   },
   {
     "date": "1405/09/24",
-    "status": "برگزار شده",
     "major": "فیزیک",
     "time": "08:00",
-    "courseProf": "عمو سجاد",
     "courseCode": "PH101",
     "courseName": "مدار منطقی",
-    "university": "شیراز"
+    "university": "شیراز",
+    "courseProf": "صحافی زاده",
+    "status": "لغو شده"
   },
   {
     "date": "1405/09/27",
-    "status": "برگزار شده",
     "major": "ریاضی کاربردی",
     "time": "08:00",
-    "courseProf": "گل سعید",
     "courseCode": "MATH201",
     "courseName": "شبکه",
-    "university": "خلیج فارس"
+    "university": "خلیج فارس",
+    "courseProf": "صحافی زاده",
+    "status": "برگزار شده"
   },
   {
     "date": "1405/09/27",
-    "status": "برگزار شده",
     "major": "مهندسی کامپیوتر",
     "time": "10:00",
-    "courseProf": "گل سعید",
     "courseCode": "CS301",
     "courseName": "نظریه زبان ها و ماشین",
-    "university": "تهران"
+    "university": "تهران",
+    "courseProf": "ترابی",
+    "status": "برگزار شده"
   },
   {
     "date": "1405/09/29",
-    "status": "برگزار شده",
     "major": "ریاضی کاربردی",
     "time": "08:00",
-    "courseProf": "دویی امین",
     "courseCode": "MATH201",
     "courseName": "نظریه زبان ها و ماشین",
-    "university": "اصفهان"
+    "university": "اصفهان",
+    "courseProf": "ترابی",
+    "status": "برگزار شده"
   },
   {
     "date": "1405/09/29",
-    "status": "برگزار شده",
     "major": "فیزیک",
     "time": "08:00",
-    "courseProf": "گل سعید",
     "courseCode": "PH101",
     "courseName": "معماری کامپیوتر",
-    "university": "تهران"
+    "university": "تهران",
+    "courseProf": "صحافی زاده",
+    "status": "لغو شده"
   },
   {
     "date": "1405/09/30",
-    "status": "برگزار شده",
     "major": "مهندسی کامپیوتر",
     "time": "10:00",
-    "courseProf": "عمو سجاد",
     "courseCode": "CS301",
     "courseName": "ساختمان داده",
-    "university": "تهران"
+    "university": "تهران",
+    "courseProf": "باغملایی",
+    "status": "لغو شده"
   },
   {
     "date": "1405/10/01",
-    "status": "برگزار شده",
     "major": "فیزیک",
     "time": "08:00",
-    "courseProf": "بانو رضوان",
     "courseCode": "PH101",
     "courseName": "شبکه",
-    "university": "شیراز"
+    "university": "شیراز",
+    "courseProf": "باغملایی",
+    "status": "لغو شده"
   },
   {
     "date": "1405/10/04",
-    "status": "برگزار شده",
     "major": "ریاضی کاربردی",
     "time": "08:00",
-    "courseProf": "گل سعید",
     "courseCode": "MATH201",
     "courseName": "نظریه زبان ها و ماشین",
-    "university": "خلیج فارس"
+    "university": "خلیج فارس",
+    "courseProf": "صحافی زاده",
+    "status": "لغو شده"
   },
   {
     "date": "1405/10/04",
-    "status": "برگزار شده",
     "major": "مهندسی کامپیوتر",
     "time": "10:00",
-    "courseProf": "دویی امین",
     "courseCode": "CS301",
     "courseName": "معماری کامپیوتر",
-    "university": "خلیج فارس"
+    "university": "خلیج فارس",
+    "courseProf": "صحافی زاده",
+    "status": "برگزار شده"
   },
   {
     "date": "1405/10/06",
-    "status": "برگزار شده",
     "major": "ریاضی کاربردی",
     "time": "08:00",
-    "courseProf": "بانو رضوان",
     "courseCode": "MATH201",
     "courseName": "داده کاوی",
-    "university": "اصفهان"
+    "university": "اصفهان",
+    "courseProf": "طلعتیان",
+    "status": "برگزار شده"
   },
   {
     "date": "1405/10/06",
-    "status": "برگزار شده",
     "major": "فیزیک",
     "time": "08:00",
-    "courseProf": "دویی امین",
     "courseCode": "PH101",
     "courseName": "معماری کامپیوتر",
-    "university": "اصفهان"
+    "university": "اصفهان",
+    "courseProf": "رستمی",
+    "status": "لغو شده"
   },
   {
     "date": "1405/10/07",
-    "status": "برگزار شده",
     "major": "مهندسی کامپیوتر",
     "time": "10:00",
-    "courseProf": "دویی امین",
     "courseCode": "CS301",
     "courseName": "طراحی الگوریتم",
-    "university": "تهران"
+    "university": "تهران",
+    "courseProf": "صحافی زاده",
+    "status": "لغو شده"
   },
   {
     "date": "1405/10/08",
-    "status": "برگزار شده",
     "major": "فیزیک",
     "time": "08:00",
-    "courseProf": "گل حبیب",
     "courseCode": "PH101",
     "courseName": "داده کاوی",
-    "university": "شیراز"
+    "university": "شیراز",
+    "courseProf": "صحافی زاده",
+    "status": "برگزار شده"
   },
   {
     "date": "1405/10/11",
-    "status": "برگزار شده",
     "major": "ریاضی کاربردی",
     "time": "08:00",
-    "courseProf": "گل ابی",
     "courseCode": "MATH201",
     "courseName": "داده کاوی",
-    "university": "اصفهان"
+    "university": "اصفهان",
+    "courseProf": "رستمی",
+    "status": "برگزار شده"
   },
   {
     "date": "1405/10/11",
-    "status": "برگزار شده",
     "major": "مهندسی کامپیوتر",
     "time": "10:00",
-    "courseProf": "گل ابی",
     "courseCode": "CS301",
     "courseName": "معماری کامپیوتر",
-    "university": "شیراز"
+    "university": "شیراز",
+    "courseProf": "رستمی",
+    "status": "لغو شده"
   },
   {
     "date": "1405/10/13",
-    "status": "برگزار شده",
     "major": "ریاضی کاربردی",
     "time": "08:00",
-    "courseProf": "عمو سجاد",
     "courseCode": "MATH201",
     "courseName": "داده کاوی",
-    "university": "اصفهان"
+    "university": "اصفهان",
+    "courseProf": "ترابی",
+    "status": "برگزار شده"
   },
   {
     "date": "1405/10/13",
-    "status": "برگزار شده",
     "major": "فیزیک",
     "time": "08:00",
-    "courseProf": "گل سعید",
     "courseCode": "PH101",
     "courseName": "نظریه زبان ها و ماشین",
-    "university": "اصفهان"
+    "university": "اصفهان",
+    "courseProf": "رستمی",
+    "status": "لغو شده"
   },
   {
     "date": "1405/10/14",
-    "status": "تایمش نرسیده",
     "major": "مهندسی کامپیوتر",
     "time": "10:00",
-    "courseProf": "گل حبیب",
     "courseCode": "CS301",
     "courseName": "شبکه",
-    "university": "شیراز"
+    "university": "شیراز",
+    "courseProf": "ترابی",
+    "status": "لغو شده"
   },
   {
     "date": "1405/10/15",
-    "status": "لغو شده",
     "major": "فیزیک",
     "time": "08:00",
-    "courseProf": "گل حبیب",
     "courseCode": "PH101",
     "courseName": "سیستم عامل",
-    "university": "تهران"
+    "university": "تهران",
+    "courseProf": "طلعتیان",
+    "status": "لغو شده"
   },
   {
     "date": "1405/10/18",
-    "status": "برگزار شده",
     "major": "ریاضی کاربردی",
     "time": "08:00",
-    "courseProf": "گل حبیب",
     "courseCode": "MATH201",
     "courseName": "شبکه",
-    "university": "اصفهان"
+    "university": "اصفهان",
+    "courseProf": "ترابی",
+    "status": "لغو شده"
   },
   {
     "date": "1405/10/18",
-    "status": "برگزار شده",
     "major": "مهندسی کامپیوتر",
     "time": "10:00",
-    "courseProf": "گل ابی",
     "courseCode": "CS301",
     "courseName": "نظریه زبان ها و ماشین",
-    "university": "تهران"
+    "university": "تهران",
+    "courseProf": "صحافی زاده",
+    "status": "برگزار شده"
   },
   {
     "date": "1405/10/20",
-    "status": "برگزار شده",
     "major": "ریاضی کاربردی",
     "time": "08:00",
-    "courseProf": "گل ابی",
     "courseCode": "MATH201",
     "courseName": "معماری کامپیوتر",
-    "university": "اصفهان"
+    "university": "اصفهان",
+    "courseProf": "باغملایی",
+    "status": "برگزار شده"
   },
   {
     "date": "1405/10/20",
-    "status": "برگزار شده",
     "major": "فیزیک",
     "time": "08:00",
-    "courseProf": "دویی امین",
     "courseCode": "PH101",
     "courseName": "معماری کامپیوتر",
-    "university": "تهران"
+    "university": "تهران",
+    "courseProf": "طلعتیان",
+    "status": "برگزار شده"
   },
   {
     "date": "1405/10/21",
-    "status": "برگزار شده",
     "major": "مهندسی کامپیوتر",
     "time": "10:00",
-    "courseProf": "عمو سجاد",
     "courseCode": "CS301",
     "courseName": "مدار منطقی",
-    "university": "تهران"
+    "university": "تهران",
+    "courseProf": "رستمی",
+    "status": "لغو شده"
   },
   {
     "date": "1405/10/22",
-    "status": "برگزار شده",
     "major": "فیزیک",
     "time": "08:00",
-    "courseProf": "بانو رضوان",
     "courseCode": "PH101",
     "courseName": "ساختمان داده",
-    "university": "خلیج فارس"
+    "university": "خلیج فارس",
+    "courseProf": "رستمی",
+    "status": "برگزار شده"
   }
 ]
