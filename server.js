@@ -5,7 +5,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const data = require('./sample.json');
+const data = require('./sample2.json');
 
 app.get('', (req, res) => {
   res.send("hi")
@@ -41,7 +41,7 @@ app.get('/api/home', (req, res) => {
   if (req.query.major) {
     const majors = req.query.major.split(',').map(m => m.toLowerCase());
     filteredData = filteredData.filter(item =>
-      item.major && majors.includes(item.courseProf.toLowerCase())
+      item.major && majors.includes(item.major.toLowerCase())
     );
   }
 
